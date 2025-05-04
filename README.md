@@ -16,7 +16,11 @@ TMDB API를 활용한 영화 검색 웹사이트입니다.
 
 Assignment1/
 ├── index.html
+
 ├── script.js
+
 ├── kookies_logo.png
+
 ├── style.css
+
 └── README.md
