@@ -14,9 +14,8 @@ TMDB API를 활용한 영화 검색 웹사이트입니다.
 
 ## 📁 폴더 구조
 
-Assignment1/
-
-── index.html
+Assignment1
+├── index.html
 
 ├── script.js
 
